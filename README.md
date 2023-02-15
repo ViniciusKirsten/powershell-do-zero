@@ -1,4 +1,4 @@
-# PowerShell do zero
+# PowerShell do Zero
 
 ### Descrição
 Um curso de PowerShell para profissionais de TI. partindo do inicio até a geração de scripts de automação e muito mais. O PowerShell é hoje parte integrante dos sistemas operacionais da Microsoft e um grande aliado aos administradores de sistemas.
