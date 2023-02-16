@@ -1,0 +1,2 @@
+PowerShell ---> somente um programa semelhante ao cmd
+PowerShell ISE ---> tem uma interface parecida com uma IDE
