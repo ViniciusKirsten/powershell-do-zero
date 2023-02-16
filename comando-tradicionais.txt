@@ -1,0 +1,3 @@
+//Comando que vao me levar para a raiz
+cd.. 
+cd / 
