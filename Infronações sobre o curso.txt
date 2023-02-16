@@ -3,5 +3,8 @@ Curso PowerShell
 PowerShell ---> somente um programa semelhante ao cmd
 PowerShell ISE ---> tem uma interface parecida com uma IDE
 
-
 Tipo dos arquivos: ".ps1"
+
+Dessa forma faz comentario no PowerShell: "#"
+
+Varios comando podem executar a mesma tarefa
