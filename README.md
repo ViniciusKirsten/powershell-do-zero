@@ -5,7 +5,7 @@ Um curso de PowerShell para profissionais de TI. partindo do inicio até a gera�
 
 # Módulos (Concluídos)
 * [x] Introdução.
-* [ ] Essencial do PowerShell.
+* [x] Essencial do PowerShell.
 * [ ] Scripts no PowerShell.
 * [ ] Gerenciamento com PowerShell.
 
